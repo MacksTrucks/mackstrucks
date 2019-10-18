@@ -1,0 +1,18 @@
+h1 {
+    color: purple;
+    text-emphasis-style: bold;
+    font-family: verdana;
+    font-size: 300%;
+}
+p {
+    font-family: Arial;
+}
+b {
+    color: blue;
+    text-emphasis-style: bold;
+    font-family: Arial;
+}
+
+body {
+    font-family: Arial;
+  }
