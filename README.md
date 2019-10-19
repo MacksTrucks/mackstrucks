@@ -17,5 +17,5 @@
 - [ ] **Confidential** 
 
 ## Where is this code used?
-***The code is used at Mack's trucks to see it in action click the link below.***
+***The code is used at Mack's trucks to see it in action click the link.***
 [**Go to Mack's Trucks Website**](http://donaldsonfamily.xyz/mackstrucks/)
